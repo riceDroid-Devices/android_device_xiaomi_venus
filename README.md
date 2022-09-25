@@ -30,12 +30,12 @@ To start your development with Rice, Clone below repos:
 
 # Device Tree
 ```bash
-git clone https://github.com/soumyo19/android_device_xiaomi_venus.git device/xiaomi/venus
+git clone https://github.com/ralph950412/android_device_xiaomi_venus.git device/xiaomi/venus
 ```
 
 # Common Device Tree
 ```bash
-git clone https://github.com/soumyo19/device_xiaomi_sm8350-common.git device/xiaomi/sm8350-common
+git clone https://github.com/ralph950412/device_xiaomi_sm8350-common.git device/xiaomi/sm8350-common
 ```
 
 # Kernel
@@ -45,12 +45,12 @@ git clone https://github.com/PixelExperience-Devices/kernel_xiaomi_venus.git ker
 
 # Device Vendor
 ```bash
-git clone https://github.com/soumyo19/android_vendor_xiaomi_venus.git vendor/xiaomi/venus
+git clone https://gitlab.pixelexperience.org/android/vendor-blobs/vendor_xiaomi_venus.git vendor/xiaomi/venus
 ```
 
 # Common Vendor
 ```bash
-git clone https://github.com/soumyo19/android_vendor_xiaomi_sm8350-common.git vendor/xiaomi/sm8350-common
+git clone https://github.com/ralph950412/android_vendor_xiaomi_sm8350-common.git vendor/xiaomi/sm8350-common
 ```
 
 # Firmware
@@ -68,7 +68,7 @@ git clone https://github.com/LineageOS/android_hardware_xiaomi.git hardware/xiao
 
 # Miui Camera
 ```bash
-https://github.com/ralph950412/vendor_venus-miuicamera.git vendor/xiaomi/venus-miuicamera
+https://github.com/ralph950412/vendor_xiaomi_venus-miuicamera.git vendor/xiaomi/venus-miuicamera
 ```
 
 # Lawnchair
