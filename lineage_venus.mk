@@ -14,9 +14,6 @@ $(call inherit-product, device/xiaomi/venus/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-# Inherit AnxVerse Setup.
-$(call inherit-product, vendor/xiaomi/venus-miuicamera/products/miuicamera.mk)
-
 # Rom flags
 RICE_MAINTAINER := Soumyo/Tofu
 RICE_DEVICE := Mi 11
