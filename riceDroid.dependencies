@@ -2,17 +2,17 @@
   {
     "repository"  : "android_device_xiaomi_venus",
     "target_path" : "device/xiaomi/venus",
-    "branch"      : "rice"
+    "branch"      : "rice-tm"
     "remote"      : "github"
   },
   {
     "repository"  : "android_device_xiaomi_sm8350-common",
     "target_path" : "device/xiaomi/sm8350-common",
-    "branch"      : "rice"
+    "branch"      : "rice-tm"
     "remote"      : "github"    
   },
   {
-    "repository"  :  "kernel_xiaomi_venus",
+    "repository"  : "kernel_xiaomi_venus",
     "target_path" : "kernel/xiaomi/venus",
     "branch"      : "twelve"
     "remote"      : "github"    
@@ -20,19 +20,19 @@
   {
     "repository"  : "android_vendor_xiaomi_venus",
     "target_path" : "vendor/xiaomi/venus",
-    "branch"      : "12.1",
-    "remote"      : "github"    
+    "branch"      : "twelve,
+    "remote"      : "pixel-devices-blobs"    
   },
   {
     "repository"  : "android_vendor_xiaomi_sm8350-common",
     "target_path" : "vendor/xiaomi/sm8350-common",
-    "branch"      : "12.1",
+    "branch"      : "rice-tm",
     "remote"      : "github"    
   },
   {
-    "repository"  : "vendor_venus-miuicamera",
+    "repository"  : "vendor_xiaomi_venus-miuicamera",
     "target_path" : "vendor/xiaomi/venus-miuicamera",
-    "branch"      : "main",
+    "branch"      : "13",
     "remote"      : "github"  
   },
   {
