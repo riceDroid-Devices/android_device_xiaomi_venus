@@ -20,8 +20,8 @@
   {
     "repository"  : "android_vendor_xiaomi_venus",
     "target_path" : "vendor/xiaomi/venus",
-    "branch"      : "twelve,
-    "remote"      : "pixel-devices-blobs"    
+    "branch"      : "rice-tm",
+    "remote"      : "github"    
   },
   {
     "repository"  : "android_vendor_xiaomi_sm8350-common",
