@@ -64,3 +64,7 @@ $(call inherit-product, vendor/xiaomi/venus/venus-vendor.mk)
 # Trust
 PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
+
+# WiFi
+PRODUCT_PACKAGES += \
+    TargetWifiOverlay
